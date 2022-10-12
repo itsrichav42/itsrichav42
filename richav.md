@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @itsrichav42 aka Richav
+- 👀 I’m interested in Learning Japanese
+- 🌱 I’m currently learning Javascript from stratch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
